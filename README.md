@@ -23,7 +23,9 @@ This project uses a multi-agent system running entirely locally:
 4.  Launch the dashboard: `streamlit run dashboard_v2.py`
 
 ## 📸 Screenshots
-*(You will add screenshots here later)*
+<img width="1919" height="726" alt="Screenshot 2026-02-15 231213" src="https://github.com/user-attachments/assets/c2cfd5bc-5e6f-4706-aa63-99861f438755" />
+<img width="1907" height="897" alt="Screenshot 2026-02-15 231309" src="https://github.com/user-attachments/assets/271a714c-2a31-4342-9632-b329287d2c7b" />
 
 ---
-*Built by [Anil khanal] as part of the 7-Day AI Agent Challenge.*
+
+*Built by [Anil khanal] as part of the  AI Agent Challenge.*
